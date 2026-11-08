@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kali + Metasploitable Homelab
+# Kali & Metasploitable Homelab
 
 **A personal homelab**
 
