@@ -13,11 +13,11 @@
 
 ## About Me
 
-<p>I am a **Cybersecurity student** interested in computers, cyber forensics, networking, automation, data, and infrastructure. 
+I am a **Cybersecurity student** interested in computers, cyber forensics, networking, automation, data, and infrastructure. 
 
 This is a self-contained penetration test lab running Kali Linux and Metaspolitable 2 inside of VMware Workstation. The lab is isolated from my home network and the internet except for a controlled NAT path used by Kali for updates and tool downloads.
 
-This is a personal learning environment built around low-cost options. This project will focus around penetration testing an intentionally vulnerable target to expose vulnerabilities without publishing private information.</p>
+This is a personal learning environment built around low-cost options. This project will focus around penetration testing an intentionally vulnerable target to expose vulnerabilities without publishing private information.
 
 </div>
 
