@@ -23,7 +23,7 @@ This is a personal learning environment built around low-cost options. This proj
 
 ## Table of Contents
 
-###README.md
+### README.md
 - [Hardware & Software Prerequisites](#hardware-used--software-prerequisites)
 - [Network Architecture](#network-architecture)
 - [Contact](#contact)
