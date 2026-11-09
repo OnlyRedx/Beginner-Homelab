@@ -28,7 +28,8 @@ This is a personal learning environment built around low-cost options. This proj
 - [Network Architecture](#network-architecture)
 - [Contact](#contact)
 
-### Chapter 1: [Reconnaissance](./Reconnaissance.md) 
+### Chapter 1:[Reconnaissance](./Reconnaissance.md)
+### Chapter 2:[Exploitation](./Exploitation.md) 
 
 ## Hardware & Software Used
 
