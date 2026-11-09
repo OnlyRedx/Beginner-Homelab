@@ -23,12 +23,14 @@ This is a personal learning environment built around low-cost options. This proj
 
 ## Table of Contents
 
-### README.md
-- [Hardware & Software Prerequisites](#hardware-used--software-prerequisites)
+### Before We Start
+- [Hardware & Software](#hardware--software-used)
 - [Network Architecture](#network-architecture)
 - [Contact](#contact)
 
-## Hardware Used & Software Prerequisites
+### Chapter 1: [Reconnaissance](./Reconnaissance.md) 
+
+## Hardware & Software Used
 
 | Component | Specified |
 |------|-------------|
@@ -43,7 +45,7 @@ This is a personal learning environment built around low-cost options. This proj
 
 ## Network Architecture
 
-This is a **simple network diagram**.
+This is a **simple network diagram**. 
 
 ![Pyramid: A on top, B and C below](pyramid.svg)
 
